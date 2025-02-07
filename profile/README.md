@@ -7,7 +7,7 @@
   
   [![Website](https://img.shields.io/badge/website-syphon.cc-5865F2?style=for-the-badge)](https://syphon.cc)
   [![Discord](https://img.shields.io/badge/discord-join-5865F2?style=for-the-badge)](https://syphon.cc/discord)
-  [![Status](https://img.shields.io/badge/status-operational-00FF00?style=for-the-badge)](https://status.syphon.cc)
+  [![Status](https://img.shields.io/badge/status-in%20development-yellow?style=for-the-badge)](https://status.syphon.cc)
 </div>
 
 ## 🚀 About Us
