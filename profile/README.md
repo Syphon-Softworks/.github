@@ -1,7 +1,7 @@
 # 🌌 Syphon Softworks
 
 <div align="center">
-  <img src="frontend/images/image.png" alt="Syphon Logo" width="150" height="150">
+  <img src="https://i.imgur.com/LfuV3qY.png" alt="Syphon Logo" width="150" height="150">
   <h1>Discord Reimagined</h1>
   <p><strong>Cloud-based Discord automation and security solutions</strong></p>
   
